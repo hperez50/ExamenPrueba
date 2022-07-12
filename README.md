@@ -16,4 +16,5 @@ Ejemplo de request
 2) La base de datos se encuentra en la carpeta "BD" dentro hay un archivo con el nombre de "BD.sql".
 
 Gracias.
+
 Cordial saludo.
